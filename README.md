@@ -7,8 +7,8 @@ Junyu Xie<sup>1</sup>, Tengda Han<sup>1</sup>, Max Bain<sup>1</sup>, Arsha Nagra
 <sup>3</sup> LIGM, École des Ponts, Univ Gustave Eiffel, CNRS <br>
 <sup>4</sup> CMIC, Shanghai Jiao Tong University
 
-<a src="https://img.shields.io/badge/cs.CV-xxxx.xxxxx-b31b1b?logo=arxiv&logoColor=red" href="https://arxiv.org/abs/xxxx.xxxxx">  
-<img src="https://img.shields.io/badge/cs.CV-xxxx.xxxxx-b31b1b?logo=arxiv&logoColor=red"></a>
+<a src="https://img.shields.io/badge/cs.CV-2504.01020-b31b1b?logo=arxiv&logoColor=red" href="https://arxiv.org/abs/2504.01020">  
+<img src="https://img.shields.io/badge/cs.CV-2504.01020-b31b1b?logo=arxiv&logoColor=red"></a>
 <a href="https://www.robots.ox.ac.uk/~vgg/research/shot-by-shot/" alt="Project page"> 
 <img alt="Project page" src="https://img.shields.io/badge/project_page-shot--by--shot-blue"></a>
 <br>
@@ -103,7 +103,7 @@ If you find this repository helpful, please consider citing our work! &#128522;
 @article{xie2025shotbyshot,
 	title={Shot-by-Shot: Film-Grammar-Aware Training-Free Audio Description Generation},
 	author={Junyu Xie and Tengda Han and Max Bain and Arsha Nagrani and Eshika Khandelwal and G\"ul Varol and Weidi Xie and Andrew Zisserman},
-	journal={arXiv preprint arXiv:xxxx.xxxxx},
+	journal={arXiv preprint arXiv:2504.01020},
 	year={2025}
 }
 ```
