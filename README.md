@@ -100,11 +100,11 @@ python stage2/main_llama3.py \  # or stage2/main_gpt4o.py to run with GPT-4o
 ## Citation
 If you find this repository helpful, please consider citing our work! &#128522;
 ```
-@article{xie2025shotbyshot,
-	title={Shot-by-Shot: Film-Grammar-Aware Training-Free Audio Description Generation},
-	author={Junyu Xie and Tengda Han and Max Bain and Arsha Nagrani and Eshika Khandelwal and G\"ul Varol and Weidi Xie and Andrew Zisserman},
-	journal={arXiv preprint arXiv:2504.01020},
-	year={2025}
+@InProceedings{xie2025shotbyshot,
+    title     =	{Shot-by-Shot: Film-Grammar-Aware Training-Free Audio Description Generation},
+    author    = {Junyu Xie and Tengda Han and Max Bain and Arsha Nagrani and Eshika Khandelwal and G\"ul Varol and Weidi Xie and Andrew Zisserman},
+    booktitle = {ICCV},  
+    year      = {2025}
 }
 ```
 
